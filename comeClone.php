@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>   Sample Shit</h1>
+    <h2>   Sample Shit</h2>
 </body>
 </html>
